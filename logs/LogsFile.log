@@ -1,0 +1,1589 @@
+00:18:12.194 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+00:53:51.802 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+00:53:51.804 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP
+00:54:08.123 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+00:54:11.627 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+00:55:16.868 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+00:55:16.870 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP
+00:55:21.375 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+00:55:24.550 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+00:55:25.449 [main] INFO  com.epam.quiz.management.view.Login - UserName or Password is Empty
+00:55:31.477 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+00:55:31.479 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP
+00:55:33.289 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+00:55:37.650 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+01:55:11.862 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+01:55:11.865 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP
+01:55:55.568 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+01:55:55.571 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP
+01:56:03.256 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:56:11.400 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:56:14.350 [main] ERROR com.epam.quiz.management.service.CreateUserService - USERNAME TAKEN PLEASE ENTER DIFFERENT USERNAME
+01:56:22.899 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+01:56:22.902 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP
+01:56:24.523 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:56:27.262 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:56:28.514 [main] ERROR com.epam.quiz.management.service.CreateUserService - username or password is empty
+01:56:34.637 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+01:56:34.639 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP
+01:56:44.874 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:56:48.983 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:56:50.669 [main] INFO  com.epam.quiz.management.view.SignUp - User Created Successfully
+19:39:15.046 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+19:39:15.049 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:39:25.109 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:39:33.311 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:41:46.781 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+19:41:46.784 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:41:53.246 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:42:15.149 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+19:42:15.151 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:42:52.412 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+19:42:55.830 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+19:42:57.970 [main] ERROR com.epam.quiz.management.service.CreateUserService - USERNAME TAKEN PLEASE ENTER DIFFERENT USERNAME
+19:43:05.952 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:48:55.488 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+19:48:55.491 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:49:00.023 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+19:49:09.221 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+19:49:11.365 [main] ERROR com.epam.quiz.management.service.CreateUserService - USERNAME TAKEN PLEASE ENTER DIFFERENT USERNAME
+19:49:19.883 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:49:27.162 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:49:28.076 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:49:28.866 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:49:29.223 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:49:29.452 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+19:50:42.043 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+19:50:42.046 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:50:44.999 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+19:50:49.357 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+19:50:51.657 [main] ERROR com.epam.quiz.management.service.CreateUserService - USERNAME TAKEN PLEASE ENTER DIFFERENT USERNAME
+19:50:51.657 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:51:03.810 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+19:51:09.514 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+19:51:11.420 [main] INFO  com.epam.quiz.management.view.SignUp - User Created Successfully
+19:51:11.420 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:51:18.498 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+19:51:22.052 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+19:51:24.498 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:52:33.220 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+19:52:33.223 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:52:40.285 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+19:52:44.656 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+19:52:46.387 [main] ERROR com.epam.quiz.management.service.CreateUserService - USERNAME TAKEN PLEASE ENTER DIFFERENT USERNAME
+19:52:46.388 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+19:52:57.871 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+19:53:00.725 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+19:53:03.028 [main] INFO  com.epam.quiz.management.view.SignUp - User Created Successfully
+19:53:03.029 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+20:52:15.257 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+20:52:15.260 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+20:52:19.275 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+20:52:24.242 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+20:52:27.927 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+20:52:45.637 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+20:53:57.104 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+20:53:57.107 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+20:54:00.239 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+20:54:03.774 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+20:54:05.495 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+20:54:09.487 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+20:54:09.487 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+20:54:09.489 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+20:54:09.489 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+20:54:09.489 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+20:54:16.422 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+20:54:16.423 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+20:54:16.423 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+20:54:16.423 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+20:54:16.423 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+20:54:16.423 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+20:54:22.943 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+20:54:22.944 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+20:54:22.944 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+20:54:22.944 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+20:54:22.944 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+20:54:25.635 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+20:54:25.635 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+20:54:25.635 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+20:54:25.635 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+20:54:25.636 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+20:54:28.606 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+20:54:28.606 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+20:54:28.606 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+20:54:28.607 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+20:54:28.607 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+20:54:30.715 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+20:54:30.716 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+20:54:30.716 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+20:54:30.716 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+20:54:30.717 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+20:54:32.994 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+20:54:38.100 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+20:54:47.610 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+20:54:51.091 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+20:54:51.716 [main] INFO  com.epam.quiz.management.view.Login - PLEASE PROVIDE CORRECT INPUT
+20:54:51.717 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+20:54:52.057 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+20:54:52.057 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:49:01.349 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+21:49:01.352 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:49:12.333 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+21:49:12.335 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:49:43.607 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+21:49:43.609 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:49:46.688 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+21:49:49.056 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+21:49:50.518 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+21:49:56.187 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+21:49:56.187 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+21:49:56.188 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+21:49:56.188 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+21:49:56.188 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+21:49:58.155 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+21:50:05.640 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+21:50:10.764 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+21:50:11.077 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+21:50:11.390 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+21:50:11.781 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+21:50:12.611 [main] ERROR com.epam.quiz.management.operations.question.CreateQuestion - PLEASE PROVIDE CORRECT INPUT
+21:50:12.611 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+21:50:12.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+21:50:12.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+21:50:12.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+21:50:12.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+21:50:15.684 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+21:50:20.511 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+21:50:23.700 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+21:50:24.592 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+21:50:25.708 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+21:50:26.697 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+21:50:28.229 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+21:50:28.278 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+21:50:28.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+21:50:28.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+21:50:28.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+21:50:28.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+21:50:44.541 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+21:50:49.022 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+21:50:49.764 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+21:50:50.671 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+21:50:51.448 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+21:50:52.284 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+21:50:55.277 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+21:50:55.278 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+21:50:55.278 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+21:50:55.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+21:50:55.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+21:50:55.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+21:51:04.829 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+21:51:07.095 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:52:43.045 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+21:52:43.048 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:52:45.335 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+21:52:47.774 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+21:52:49.267 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+21:52:53.663 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+21:52:53.663 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+21:52:53.663 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+21:52:53.664 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+21:52:53.664 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+21:52:57.726 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+21:53:02.596 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+21:53:04.474 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+21:53:05.543 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+21:53:06.305 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+21:53:07.286 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+21:53:09.735 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+21:53:09.746 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+21:53:09.746 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+21:53:09.746 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+21:53:09.746 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+21:53:09.746 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+21:53:14.743 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+21:53:16.792 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+21:53:18.080 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+21:53:18.799 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+21:53:19.977 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+21:53:21.613 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+21:53:23.199 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+21:53:23.200 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+21:53:23.200 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+21:53:23.200 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+21:53:23.200 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+21:53:23.201 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:33:46.825 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:33:46.827 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:33:50.581 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+23:33:57.390 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+23:33:59.116 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:34:05.221 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:34:05.221 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:34:05.221 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:34:05.221 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:34:05.221 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:34:07.442 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:34:16.103 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:34:18.166 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:34:19.295 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:34:20.436 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:34:21.653 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:34:23.876 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:34:23.877 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:34:23.877 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:34:23.877 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:34:23.877 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:34:23.877 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:34:32.846 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+23:34:36.597 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+23:34:36.597 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+23:34:36.598 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+23:34:36.598 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+23:34:36.598 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+23:34:36.598 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+23:34:36.598 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+23:34:42.409 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+23:34:56.251 [main] INFO  com.epam.quiz.management.service.UpdateQuestionService - Question Updated
+23:34:56.261 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:34:56.261 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:34:56.261 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:34:56.261 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:34:56.261 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:35:05.928 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:35:08.573 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:35:23.732 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:35:23.734 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:35:26.766 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+23:35:29.149 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+23:35:32.715 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:35:36.263 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:35:36.264 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:35:36.264 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:35:36.264 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:35:36.264 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:35:44.525 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:35:49.950 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:35:52.056 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:35:52.984 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:35:53.920 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:35:54.745 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:35:55.628 [main] ERROR com.epam.quiz.management.operations.question.CreateQuestion - PLEASE PROVIDE CORRECT INPUT
+23:35:55.629 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:35:55.629 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:35:55.629 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:35:55.629 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:35:55.629 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:36:00.192 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:36:04.770 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:36:06.685 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:36:07.535 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:36:08.389 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:36:09.060 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:36:11.077 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:36:11.078 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:36:11.078 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:36:11.078 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:36:11.078 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:36:11.078 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:36:15.905 [main] INFO  com.epam.quiz.management.operations.question.DeleteQuestion - Enter the ID of the Question
+23:36:20.802 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:36:20.802 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:36:20.803 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:36:20.803 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:36:20.803 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:36:30.278 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:36:32.051 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:37:24.456 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:37:24.458 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:37:32.115 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+23:37:34.352 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+23:37:35.903 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:37:37.611 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:37:37.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:37:37.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:37:37.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:37:37.612 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:37:42.532 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:38:22.246 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:38:22.249 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:38:23.943 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+23:38:26.124 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+23:38:27.727 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:38:29.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:38:29.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:38:29.280 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:38:29.280 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:38:29.280 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:38:30.980 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:38:35.389 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:38:37.172 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:38:38.006 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:38:38.955 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:38:39.839 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:38:41.501 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:38:41.502 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:38:41.502 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:38:41.502 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:38:41.503 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:38:41.503 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:38:46.917 [main] INFO  com.epam.quiz.management.operations.question.DeleteQuestion - Enter the ID of the Question
+23:38:50.402 [main] ERROR com.epam.quiz.management.service.DeleteQuestionService - PLEASE PROVIDE CORRECT INPUT
+23:38:50.403 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:38:50.403 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:38:50.403 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:38:50.403 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:38:50.404 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:38:55.107 [main] INFO  com.epam.quiz.management.operations.question.DeleteQuestion - Enter the ID of the Question
+23:38:57.295 [main] INFO  com.epam.quiz.management.service.DeleteQuestionService - Deletion Successful
+23:38:57.295 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:38:57.295 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:38:57.296 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:38:57.296 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:38:57.296 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:21:27.847 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+01:21:27.850 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:21:41.502 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+01:21:49.670 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+01:21:52.310 [main] INFO  com.epam.quiz.management.view.Login - PLEASE PROVIDE CORRECT INPUT
+01:21:52.311 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:22:06.136 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:22:10.285 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:22:10.561 [main] ERROR com.epam.quiz.management.service.CreateUserService - username or password is empty
+01:22:10.562 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:22:16.486 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:22:21.006 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:22:22.950 [main] ERROR com.epam.quiz.management.service.CreateUserService - USERNAME TAKEN PLEASE ENTER DIFFERENT USERNAME
+01:22:22.950 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:22:28.877 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:22:30.852 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:22:33.136 [main] INFO  com.epam.quiz.management.view.SignUp - User Created Successfully
+01:22:33.136 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:22:57.582 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:22:57.583 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:22:57.583 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:22:57.583 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:22:57.583 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:23:03.528 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:23:03.529 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:23:03.529 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:23:03.529 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:23:03.530 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:23:03.530 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:23:08.317 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:23:08.317 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:23:08.317 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:23:08.318 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:23:08.318 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:23:08.318 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:23:11.517 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+01:23:15.584 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+01:23:16.636 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+01:23:17.070 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+01:23:17.387 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+01:23:17.659 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+01:23:18.824 [main] ERROR com.epam.quiz.management.operations.question.CreateQuestion - PLEASE PROVIDE CORRECT INPUT
+01:23:18.825 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:23:18.825 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:23:18.825 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:23:18.825 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:23:18.825 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:23:21.426 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+01:23:37.271 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+01:23:46.792 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+01:23:54.562 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+01:23:56.378 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+01:23:58.293 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+01:24:00.227 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+01:24:00.227 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:24:00.228 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:24:00.229 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:24:00.229 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:24:00.229 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:24:13.582 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:24:17.124 [main] INFO  com.epam.quiz.management.view.ViewQuestions - PLEASE PROVIDE CORRECT INPUT
+01:24:17.125 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:24:17.125 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:24:17.125 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:24:17.125 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:24:17.125 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:24:26.359 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:24:29.042 [main] INFO  com.epam.quiz.management.view.ViewQuestions - PLEASE PROVIDE CORRECT INPUT
+01:24:29.042 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:24:29.042 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:24:29.042 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:24:29.042 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:24:29.043 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:24:37.308 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+01:24:57.335 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+01:25:02.079 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+01:25:06.523 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+01:25:08.423 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+01:25:10.089 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+01:25:12.650 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+01:25:12.650 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:25:12.650 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:25:12.650 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:25:12.650 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:25:12.650 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:25:24.143 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:25:28.908 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:25:28.909 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:25:28.909 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:25:35.349 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:25:35.349 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:25:35.349 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:25:35.349 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:25:39.843 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:25:46.912 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:25:52.779 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+01:25:52.779 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:25:52.780 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:25:52.780 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:26:02.901 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:26:05.544 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:26:07.503 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+01:26:07.504 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:26:07.504 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:26:07.504 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:26:14.830 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:26:17.479 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:26:19.738 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+01:26:47.082 [main] INFO  com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+01:26:54.290 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+01:26:54.290 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:26:54.291 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:26:54.291 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:27:07.259 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:27:14.981 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:27:25.324 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:27:36.928 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:27:38.711 [main] INFO  com.epam.quiz.management.view.SignUp - User Created Successfully
+01:27:38.712 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:27:42.295 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:27:42.295 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:27:42.295 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:27:42.295 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:27:42.295 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:27:45.226 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:27:45.227 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:27:49.477 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1
+01:27:49.477 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java is what
+01:27:49.478 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.Programmikng Language
+01:27:49.478 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.Keyword
+01:27:49.478 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both'
+01:27:49.479 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+01:27:49.479 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:27:49.479 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+01:27:49.479 [main] INFO  com.epam.quiz.management.view.ViewQuestions - what is the capital of india?
+01:27:49.479 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.Lucknow
+01:27:49.479 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.New Delhi
+01:27:49.480 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both
+01:27:49.480 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+01:27:49.480 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:27:49.480 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:27:49.480 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:27:49.480 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:27:49.480 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:27:49.481 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:28:49.295 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+01:29:05.914 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+01:29:05.914 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+01:29:05.915 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+01:29:05.915 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+01:29:05.915 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+01:29:05.915 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+01:29:05.915 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+01:29:17.090 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+01:29:19.430 [main] ERROR com.epam.quiz.management.service.UpdateQuestionService - Question cant be found
+01:29:19.430 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:29:19.430 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:29:19.431 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:29:19.431 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:29:19.431 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:29:31.718 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+01:29:34.406 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+01:29:34.406 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+01:29:34.406 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+01:29:34.406 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+01:29:34.406 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+01:29:34.407 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+01:29:34.407 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+01:29:41.009 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+01:30:22.854 [main] INFO  com.epam.quiz.management.service.UpdateQuestionService - Question Updated
+01:30:22.855 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:30:22.855 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:30:22.855 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:30:22.855 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:30:22.855 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:30:35.993 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:30:35.994 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:30:39.077 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1
+01:30:39.077 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java is what
+01:30:39.077 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.Programmikng Language
+01:30:39.077 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.Keyword
+01:30:39.077 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both'
+01:30:39.077 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+01:30:39.077 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:30:39.078 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+01:30:39.078 [main] INFO  com.epam.quiz.management.view.ViewQuestions - WHAT IS THE CAPITAL OF INDIA
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.Lucknow
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.New Delhi
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:30:39.079 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:31:21.446 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:31:27.113 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:31:27.113 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:31:27.113 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:31:40.441 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:31:51.636 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:31:54.696 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+01:32:06.194 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+01:32:06.194 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:32:06.195 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:32:06.195 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:33:38.370 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:33:47.157 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:33:47.157 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:33:47.157 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:33:47.157 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:33:47.157 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:33:50.196 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:33:50.197 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Python
+01:33:50.197 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java is what
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.Programmikng Language
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.Keyword
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both'
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:33:55.411 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.ViewQuestions - WHAT IS THE CAPITAL OF INDIA
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.Lucknow
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.New Delhi
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:33:55.412 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:33:55.413 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:34:27.265 [main] INFO  com.epam.quiz.management.operations.question.DeleteQuestion - Enter the ID of the Question
+01:34:34.567 [main] INFO  com.epam.quiz.management.service.DeleteQuestionService - Deletion Successful
+01:34:34.568 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:34:34.568 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:34:34.569 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:34:34.569 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:34:34.569 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:35:02.797 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:35:02.798 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Python
+01:35:02.798 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:35:09.431 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1
+01:35:09.431 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java is what
+01:35:09.431 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.Programmikng Language
+01:35:09.432 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.Keyword
+01:35:09.432 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both'
+01:35:09.432 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+01:35:09.432 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:35:09.432 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:35:09.432 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:35:09.432 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:35:09.433 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:35:09.433 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:36:32.926 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:37:24.620 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:37:38.380 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+01:37:38.383 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:37:47.607 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+01:37:55.520 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+01:37:56.491 [main] INFO  com.epam.quiz.management.view.Login - UserName or Password is Empty
+01:37:56.492 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:38:09.101 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+01:38:12.288 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+01:38:14.471 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:38:18.656 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:38:24.056 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:38:29.918 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:38:30.893 [main] ERROR com.epam.quiz.management.service.CreateUserService - username or password is empty
+01:38:30.893 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:38:33.674 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:38:39.538 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:38:42.832 [main] INFO  com.epam.quiz.management.view.SignUp - User Created Successfully
+01:38:42.833 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:38:50.344 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:38:50.345 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:38:50.345 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:38:50.345 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:38:50.345 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:38:53.339 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+01:38:55.087 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+01:38:55.483 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+01:38:55.899 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+01:38:56.292 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+01:38:57.145 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+01:38:57.801 [main] ERROR com.epam.quiz.management.operations.question.CreateQuestion - PLEASE PROVIDE CORRECT INPUT
+01:38:57.802 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:38:57.802 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:38:57.802 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:38:57.803 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:38:57.803 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:39:00.409 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+01:39:04.941 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+01:39:06.838 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+01:39:08.094 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+01:39:09.078 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+01:39:09.926 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+01:39:11.532 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+01:39:11.532 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:39:11.532 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:39:11.533 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:39:11.533 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:39:11.533 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:39:20.908 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:39:26.483 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:39:26.483 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:39:26.483 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:39:28.907 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:39:34.774 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:39:37.419 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+01:39:43.565 [main] INFO  com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+01:39:49.055 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+01:39:49.055 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:39:49.056 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:39:49.056 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:39:57.865 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:39:57.865 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:39:57.865 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+01:39:57.866 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:40:04.852 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:40:09.880 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:40:09.880 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:40:09.880 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:40:09.881 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:40:09.881 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:40:14.137 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:40:14.138 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:40:18.220 [main] INFO  com.epam.quiz.management.view.ViewQuestions - PLEASE PROVIDE CORRECT INPUT
+01:40:18.220 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:40:18.220 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:40:18.220 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:40:18.221 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:40:18.221 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:40:21.249 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:40:21.249 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:40:23.761 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1
+01:40:23.761 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java is what
+01:40:23.762 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.a
+01:40:23.762 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.v
+01:40:23.762 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.a
+01:40:23.762 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.f
+01:40:23.763 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:40:23.763 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:40:23.763 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:40:23.763 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:40:23.763 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:40:23.763 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:40:27.046 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+01:40:29.528 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+01:40:29.528 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+01:40:29.528 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+01:40:29.528 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+01:40:29.528 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+01:40:29.528 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+01:40:29.529 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+01:40:33.418 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+01:40:36.493 [main] ERROR com.epam.quiz.management.operations.question.UpdateQuestion - PLEASE PROVIDE CORRECT INPUT
+01:40:36.493 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:40:36.494 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:40:36.494 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:40:36.494 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:40:36.494 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:40:45.941 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+01:40:48.471 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+01:40:48.472 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+01:40:48.472 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+01:40:48.472 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+01:40:48.472 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+01:40:48.472 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+01:40:48.473 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+01:40:51.983 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+01:40:54.988 [main] INFO  com.epam.quiz.management.service.UpdateQuestionService - Question Updated
+01:40:54.988 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:40:54.988 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:40:54.989 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:40:54.989 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:40:54.989 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:41:00.006 [main] INFO  com.epam.quiz.management.operations.question.DeleteQuestion - Enter the ID of the Question
+01:41:02.379 [main] ERROR com.epam.quiz.management.operations.question.DeleteQuestion - PLEASE PROVIDE CORRECT INPUT
+01:41:02.380 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:41:02.380 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:41:02.380 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:41:02.380 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:41:02.380 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:41:06.046 [main] INFO  com.epam.quiz.management.operations.question.DeleteQuestion - Enter the ID of the Question
+01:41:09.894 [main] INFO  com.epam.quiz.management.service.DeleteQuestionService - Deletion Successful
+01:41:09.894 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:41:09.894 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:41:09.894 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:41:09.895 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:41:09.895 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:41:17.541 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:41:25.241 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:55:41.456 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+21:55:41.459 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:55:46.194 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+21:55:47.538 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+21:55:48.408 [main] INFO  com.epam.quiz.management.view.Login - UserName or Password is Empty
+21:55:48.408 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:55:53.259 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+21:55:58.657 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+21:55:59.856 [main] INFO  com.epam.quiz.management.view.Login - UserName or Password is Empty
+21:55:59.856 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:56:06.369 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+21:56:09.157 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+21:56:11.782 [main] INFO  com.epam.quiz.management.view.Login - PLEASE PROVIDE CORRECT INPUT
+21:56:11.782 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:56:18.205 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+21:56:23.794 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+21:56:25.556 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+21:56:33.053 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:56:37.609 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+21:56:43.136 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+21:56:43.513 [main] ERROR com.epam.quiz.management.view.SignUp - Username password cannot be empty
+21:56:43.513 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:56:46.822 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+21:56:51.605 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+21:56:53.812 [main] ERROR com.epam.quiz.management.view.SignUp - Username Taken enter different username
+21:56:53.813 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+21:56:59.196 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+21:57:01.365 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+21:57:03.299 [main] INFO  com.epam.quiz.management.view.SignUp - User created successfully
+21:57:03.299 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+21:57:07.437 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:48:11.808 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:48:11.810 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:48:18.236 [main] ERROR com.epam.quiz.management.Main - PLEASE PROVIDE CORRECT INPUT
+23:48:18.236 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:50:48.807 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:50:48.810 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:51:38.922 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:51:38.924 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:51:47.568 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+23:51:50.454 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+23:51:52.285 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:51:55.927 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:51:55.927 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:51:55.927 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:51:55.927 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:51:55.928 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:51:59.183 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:52:12.047 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:52:20.596 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:52:24.445 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:52:26.759 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:52:28.496 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:52:30.315 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:52:30.315 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:52:30.316 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:52:30.316 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:52:30.316 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:52:30.316 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:52:47.027 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+23:52:54.064 [main] INFO  com.epam.quiz.management.view.ViewQuestions - PLEASE PROVIDE CORRECT INPUT
+23:52:54.064 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:52:54.065 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:52:54.065 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:52:54.065 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:52:54.065 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:53:00.513 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:53:12.292 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:53:16.322 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:53:21.839 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:53:23.736 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:53:25.197 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:53:26.713 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:53:26.713 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:53:26.713 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:53:26.713 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:53:26.713 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:53:26.713 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:53:39.243 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:53:41.649 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+23:53:41.649 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+23:53:41.649 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+23:53:47.297 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+23:53:50.756 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+23:53:53.712 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+23:53:53.712 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+23:53:53.712 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+23:53:53.712 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+23:54:11.329 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+23:54:13.871 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+23:54:17.193 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+23:54:17.193 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+23:54:17.193 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+23:54:17.193 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+23:54:20.682 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+23:54:22.730 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+23:54:24.365 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+23:54:24.365 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+23:54:24.365 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+23:54:24.366 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+23:57:40.375 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+23:57:40.377 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+23:58:28.655 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+23:58:31.357 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+23:58:32.930 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+23:58:34.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:58:34.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:58:34.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:58:34.790 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:58:34.790 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:58:36.104 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:58:41.400 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:58:47.849 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:58:54.452 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:58:56.557 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:58:58.611 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:58:59.364 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:58:59.364 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:58:59.364 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:58:59.365 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:58:59.365 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:58:59.365 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:59:02.568 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:59:17.742 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:59:20.892 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:59:22.288 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:59:23.130 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:59:23.875 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:59:24.853 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:59:24.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:59:24.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:59:24.854 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:59:24.854 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:59:24.854 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:59:37.524 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+23:59:46.275 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+23:59:49.713 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+23:59:51.557 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+23:59:52.381 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+23:59:53.181 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+23:59:54.246 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+23:59:54.246 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+23:59:54.246 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+23:59:54.246 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+23:59:54.246 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+23:59:54.246 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+23:59:58.588 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:00:01.303 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:00:01.304 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+00:00:01.304 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:00:09.422 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:00:13.438 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:00:16.189 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+00:00:16.190 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:00:16.190 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+00:00:16.191 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:00:23.063 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:00:26.884 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:00:31.967 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+00:07:14.372 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+00:07:14.374 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+00:07:17.483 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+00:07:19.733 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+00:07:22.222 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:07:23.939 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:07:23.939 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:07:23.939 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:07:23.940 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:07:23.940 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:07:29.048 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+00:07:33.410 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+00:07:41.132 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+00:07:44.956 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+00:07:46.867 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+00:07:48.431 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+00:07:49.853 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+00:07:49.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:07:49.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:07:49.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:07:49.854 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:07:49.854 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:07:53.731 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+00:08:04.151 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+00:08:06.847 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+00:08:10.942 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+00:08:13.195 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+00:08:14.673 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+00:08:15.705 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+00:08:15.706 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:08:15.706 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:08:15.706 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:08:15.706 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:08:15.706 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:08:19.125 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:08:22.313 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:08:22.313 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+00:08:22.313 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:08:24.178 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:08:28.617 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:08:31.872 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+00:08:31.872 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:08:31.872 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+00:08:31.873 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:08:39.719 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:08:41.934 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:08:43.237 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+00:08:54.410 [main] INFO  com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+00:09:09.971 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+00:09:09.971 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:09:09.971 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+00:09:09.971 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:09:21.415 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:09:29.587 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:09:32.781 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+00:09:34.301 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+00:09:34.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:09:34.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete questions from the quiz
+00:09:34.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:09:38.132 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:09:42.584 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:09:42.585 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:09:42.585 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:09:42.585 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:09:42.585 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:09:45.358 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+00:09:45.358 [main] INFO  com.epam.quiz.management.view.ViewQuestions - State Capital
+00:09:45.359 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+00:09:49.292 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+00:09:49.292 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java is what
+00:09:49.293 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.programming language
+00:09:49.293 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.kryword
+00:09:49.293 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both
+00:09:49.293 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+00:09:49.293 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+00:09:49.294 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:09:49.294 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:09:49.294 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:09:49.294 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:09:49.294 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:10:04.506 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+00:10:13.562 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+00:10:13.563 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+00:10:13.563 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+00:10:13.563 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+00:10:13.563 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+00:10:13.563 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+00:10:13.564 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+00:10:21.540 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+00:10:24.825 [main] ERROR com.epam.quiz.management.dao.questiondao.UpdateQuestionDao - Question cant be found
+00:10:24.826 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:10:24.826 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:10:24.826 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:10:24.826 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:10:24.826 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:10:33.387 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+00:10:43.598 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+00:10:43.598 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+00:10:43.599 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+00:10:43.599 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+00:10:43.599 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+00:10:43.599 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+00:10:43.599 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+00:10:45.325 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+00:10:55.337 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:10:55.338 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:10:55.338 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:10:55.338 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:10:55.338 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:11:08.821 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+00:11:08.822 [main] INFO  com.epam.quiz.management.view.ViewQuestions - State Capital
+00:11:08.822 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+00:11:12.788 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+00:11:12.788 [main] INFO  com.epam.quiz.management.view.ViewQuestions - JAVA IS WHAT
+00:11:12.788 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.programming language
+00:11:12.788 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.kryword
+00:11:12.788 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both
+00:11:12.789 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+00:11:12.789 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+00:11:12.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:11:12.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:11:12.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:11:12.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:11:12.789 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:11:39.346 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+00:11:41.477 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+00:11:41.477 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+00:11:41.478 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+00:11:41.478 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+00:11:41.478 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+00:11:41.478 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+00:11:41.478 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+00:11:49.609 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+00:11:54.886 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:11:54.886 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:11:54.887 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:11:54.887 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:11:54.887 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:11:58.028 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+00:11:58.029 [main] INFO  com.epam.quiz.management.view.ViewQuestions - State Capital
+00:11:58.029 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+00:12:00.143 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+00:12:00.143 [main] INFO  com.epam.quiz.management.view.ViewQuestions - JAVA IS WHAT
+00:12:00.143 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.programming language
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.Keyword
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.both
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.none
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:12:00.144 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:12:00.145 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:12:21.993 [main] INFO  com.epam.quiz.management.operations.question.DeleteQuestion - Enter the ID of the Question
+00:12:24.301 [main] INFO  com.epam.quiz.management.dao.questiondao.DeleteQuestionDao - Question Deleted
+00:12:24.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:12:24.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:12:24.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:12:24.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:12:24.301 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:12:32.321 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+00:12:32.321 [main] INFO  com.epam.quiz.management.view.ViewQuestions - State Capital
+00:12:32.321 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+00:12:37.563 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:12:37.563 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:12:37.563 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:12:37.563 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:12:37.563 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:41:53.254 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+00:41:53.256 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+00:41:56.292 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+00:41:58.408 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+00:42:03.003 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:42:05.746 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:42:05.746 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:42:05.747 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:42:05.747 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:42:05.747 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:42:07.208 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+00:42:10.527 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+00:42:11.658 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+00:42:12.427 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+00:42:13.155 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+00:42:14.158 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+00:42:15.683 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+00:42:15.684 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:42:15.684 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:42:15.684 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:42:15.684 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:42:15.685 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:42:36.170 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:42:44.618 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:42:44.619 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:42:44.619 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:42:44.619 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:42:44.619 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:42:46.128 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+00:42:56.934 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+00:42:58.991 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+00:43:00.153 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+00:43:01.091 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+00:43:01.901 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+00:43:02.593 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+00:43:02.593 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:43:02.593 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:43:02.593 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:43:02.594 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:43:02.594 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:43:10.234 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:43:12.456 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:43:12.457 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:43:12.457 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:43:14.155 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:43:16.088 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:43:19.059 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+00:43:19.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:43:19.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:43:19.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:43:31.796 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:43:33.885 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:43:35.542 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+00:43:40.790 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+00:43:40.790 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:43:40.790 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:43:40.790 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:43:46.255 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:43:46.255 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:43:46.256 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:43:52.948 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:43:56.324 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+00:45:45.646 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+00:45:45.648 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+00:45:48.231 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER USERNAME
+00:45:52.444 [main] INFO  com.epam.quiz.management.view.Login - PLEASE ENTER PASSWORD
+00:45:54.176 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:45:56.037 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:45:56.039 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:45:56.039 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:45:56.039 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:45:56.039 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:46:08.512 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+00:46:08.513 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:46:08.513 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:46:08.513 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:46:08.513 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:46:08.513 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:46:13.003 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+00:46:13.003 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:46:13.003 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:46:13.003 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:46:13.003 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:46:13.003 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:46:17.767 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+00:46:32.759 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+00:46:33.578 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+00:46:34.043 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+00:46:34.337 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+00:46:34.643 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+00:46:35.128 [main] ERROR com.epam.quiz.management.operations.question.CreateQuestion - PLEASE PROVIDE CORRECT INPUT
+00:46:35.128 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:46:35.128 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:46:35.129 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:46:35.129 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:46:35.129 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:46:37.190 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+00:46:43.589 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+00:46:47.941 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+00:46:49.171 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+00:46:49.815 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+00:46:50.286 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+00:46:51.186 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+00:46:51.186 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:46:51.187 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:46:51.187 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:46:51.187 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:46:51.187 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:46:57.524 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz Problem Statement
+00:47:07.318 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 1
+00:47:08.315 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 2
+00:47:08.948 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 3
+00:47:09.612 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Option 4
+00:47:10.444 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Enter Quiz answer
+00:47:11.291 [main] INFO  com.epam.quiz.management.operations.question.CreateQuestion - Question Creation Successful
+00:47:11.291 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:47:11.292 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:47:11.292 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:47:11.292 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:47:11.292 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:47:19.333 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Enter Question ID
+00:47:21.329 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - What do you want to update
+00:47:21.329 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 1 for Problem Statement
+00:47:21.329 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 2 for option 1
+00:47:21.330 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 3 for option 2
+00:47:21.330 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 4 for option 3
+00:47:21.330 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 5 for option 4
+00:47:21.330 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Press 6 for ans
+00:47:33.595 [main] INFO  com.epam.quiz.management.operations.question.UpdateQuestion - Please provide updated info
+00:47:46.943 [main] INFO  com.epam.quiz.management.dao.questiondao.UpdateQuestionDao - Question Updated
+00:47:46.943 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:47:46.943 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:47:46.944 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:47:46.944 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:47:46.944 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:47:52.418 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:47:54.360 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:47:54.361 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:47:54.361 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:47:59.825 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:48:03.203 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:48:05.416 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+00:48:05.420 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+00:48:05.420 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:48:05.420 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:48:05.421 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:49:59.149 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+00:50:01.199 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+00:50:03.024 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+00:50:06.971 [main] INFO  com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+00:50:09.311 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+00:50:09.311 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:50:09.312 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:50:09.312 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:50:13.157 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:50:15.863 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:50:15.863 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:50:15.864 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:50:15.864 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:50:15.864 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:50:17.604 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+00:50:17.604 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+00:50:20.276 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+00:50:20.276 [main] INFO  com.epam.quiz.management.view.ViewQuestions - What is the capital of indai
+00:50:20.277 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.4
+00:50:20.277 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.d
+00:50:20.277 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.d
+00:50:20.278 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.d
+00:50:20.278 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+00:50:20.278 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3
+00:50:20.278 [main] INFO  com.epam.quiz.management.view.ViewQuestions - What is th capital of int
+00:50:20.278 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.asf
+00:50:20.278 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.ss
+00:50:20.278 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.fsf
+00:50:20.279 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.fewfw
+00:50:20.279 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+00:50:20.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:50:20.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:50:20.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:50:20.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:50:20.279 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:50:54.371 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:50:57.056 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:50:57.056 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:50:57.056 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:50:59.171 [main] INFO  com.epam.quiz.management.view.DeleteQuiz - Enter the id of the quiz
+00:51:06.357 [main] ERROR com.epam.quiz.management.view.DeleteQuiz - INVALID INPUT
+00:51:06.358 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:51:06.358 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:51:06.358 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:51:09.247 [main] INFO  com.epam.quiz.management.view.DeleteQuiz - Enter the id of the quiz
+00:51:10.762 [main] ERROR com.epam.quiz.management.view.DeleteQuiz - INVALID INPUT
+00:51:10.762 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:51:10.762 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:51:10.762 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:51:18.485 [main] INFO  com.epam.quiz.management.view.DeleteQuiz - Enter the id of the quiz
+00:51:20.661 [main] INFO  com.epam.quiz.management.service.DeleteQuizService - Deletion Successful
+00:51:20.661 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+00:51:20.661 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+00:51:20.661 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+00:51:23.656 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+00:51:27.413 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:51:27.413 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:51:27.413 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:51:27.413 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:51:27.413 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+00:51:29.554 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+00:51:33.717 [main] INFO  com.epam.quiz.management.view.ViewQuestions - PLEASE PROVIDE CORRECT INPUT
+00:51:33.717 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+00:51:33.717 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+00:51:33.717 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+00:51:33.717 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+00:51:33.717 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:06:03.181 [main] INFO  com.epam.quiz.management.Main - WELCOME TO QUIZ APPLICATION
+01:06:03.183 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:06:08.987 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:06:12.130 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:06:13.948 [main] ERROR com.epam.quiz.management.view.SignUp - Username Taken enter different username
+01:06:13.948 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
+01:06:17.043 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER USERNAME
+01:06:20.521 [main] INFO  com.epam.quiz.management.view.SignUp - PLEASE ENTER PASSWORD
+01:06:22.313 [main] INFO  com.epam.quiz.management.view.SignUp - User created successfully
+01:06:22.314 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:06:25.337 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:06:25.337 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:06:25.338 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:06:25.338 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:06:25.338 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:06:31.646 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Quiz Problem Statement
+01:06:35.882 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 1
+01:06:36.197 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 2
+01:06:36.464 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 3
+01:06:36.721 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 4
+01:06:36.955 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Quiz answer
+01:06:37.234 [main] ERROR com.epam.quiz.management.view.question.CreateQuestion - PLEASE PROVIDE CORRECT INPUT
+01:06:37.234 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:06:37.234 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:06:37.234 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:06:37.234 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:06:37.234 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:06:40.056 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Quiz Problem Statement
+01:06:44.077 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 1
+01:06:46.201 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 2
+01:06:46.998 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 3
+01:06:47.882 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 4
+01:06:48.771 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Quiz answer
+01:06:50.808 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Question Creation Successful
+01:06:50.808 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:06:50.809 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:06:50.809 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:06:50.809 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:06:50.809 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:07:07.679 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Quiz Problem Statement
+01:07:09.618 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 1
+01:07:10.460 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 2
+01:07:11.272 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 3
+01:07:12.047 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Option 4
+01:07:12.939 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Enter Quiz answer
+01:07:13.862 [main] INFO  com.epam.quiz.management.view.question.CreateQuestion - Question Creation Successful
+01:07:13.862 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:07:13.862 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:07:13.862 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:07:13.863 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:07:13.863 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:07:20.232 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:07:20.233 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:07:20.233 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:07:20.233 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:07:20.233 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:07:20.234 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:07:25.123 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:07:25.123 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:07:25.123 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:07:25.123 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:07:25.123 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:07:25.123 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:07:27.393 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:07:29.599 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:07:29.600 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:07:29.600 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:07:31.119 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:07:31.119 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:07:31.119 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:07:31.119 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:07:39.966 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:07:44.063 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:07:45.521 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+01:07:45.522 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:07:45.522 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:07:45.522 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:09:05.465 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:09:10.014 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:09:22.756 [main] ERROR com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+01:09:22.756 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:09:22.757 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:09:22.757 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:09:24.902 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:09:26.849 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:09:29.462 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+01:09:34.555 [main] INFO  com.epam.quiz.management.view.CreateQuiz - PLEASE PROVIDE CORRECT INPUT
+01:09:39.847 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+01:09:39.847 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:09:39.848 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:09:39.848 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:09:44.615 [main] ERROR com.epam.quiz.management.view.AdminTasks - PLEASE PROVIDE CORRECT INPUT
+01:09:44.615 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:09:44.615 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:09:44.616 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:09:47.351 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:09:52.658 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:09:52.658 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:09:52.659 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:09:52.659 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:09:52.659 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:09:56.378 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:09:56.379 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:09:58.850 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2
+01:09:58.850 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java is what
+01:09:58.851 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.sdjb
+01:09:58.851 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.aslkn
+01:09:58.851 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.nsa
+01:09:58.851 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.nal
+01:09:58.852 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:09:58.852 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3
+01:09:58.852 [main] INFO  com.epam.quiz.management.view.ViewQuestions - sfh
+01:09:58.852 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.fshf
+01:09:58.852 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.fnf
+01:09:58.852 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.fjnf
+01:09:58.853 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.knskl
+01:09:58.853 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:09:58.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:09:58.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:09:58.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:09:58.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:09:58.853 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:10:09.606 [main] INFO  com.epam.quiz.management.view.question.DeleteQuestion - Enter the ID of the Question
+01:10:11.773 [main] INFO  com.epam.quiz.management.dao.questiondao.DeleteQuestionDao - Question Deleted
+01:10:11.774 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:10:11.774 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:10:11.774 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:10:11.774 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:10:11.774 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:10:14.584 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:10:14.584 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.ViewQuestions - sfh
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.fshf
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.fnf
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.fjnf
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.knskl
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:10:18.060 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:10:23.776 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:10:26.971 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:10:26.971 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:10:26.972 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:10:31.892 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Enter the quiz Title
+01:10:34.456 [main] INFO  com.epam.quiz.management.view.CreateQuiz - How many Questions do you want to add ?
+01:10:36.671 [main] INFO  com.epam.quiz.management.view.CreateQuiz - Please select the id of the question that you want to add
+01:10:38.417 [main] INFO  com.epam.quiz.management.service.CreateQuizService - Quiz Created Successfully
+01:10:38.417 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create quiz
+01:10:38.417 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for delete quiz
+01:10:38.417 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for exit
+01:10:44.535 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:10:49.969 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:10:49.969 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:10:49.969 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:10:49.969 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:10:49.969 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:10:51.906 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:10:51.907 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:10:54.230 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.ViewQuestions - sfh
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.fshf
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.fnf
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.fjnf
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.knskl
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:10:54.232 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:11:11.719 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:11:18.715 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:11:18.715 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:11:18.715 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:11:18.715 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:11:18.715 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:11:21.356 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Enter Question ID
+01:11:24.117 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - What do you want to update
+01:11:24.117 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Press 1 for Problem Statement
+01:11:24.117 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Press 2 for option 1
+01:11:24.117 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Press 3 for option 2
+01:11:24.117 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Press 4 for option 3
+01:11:24.117 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Press 5 for option 4
+01:11:24.117 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Press 6 for ans
+01:11:26.510 [main] INFO  com.epam.quiz.management.view.question.UpdateQuestion - Please provide updated info
+01:11:34.830 [main] INFO  com.epam.quiz.management.dao.questiondao.UpdateQuestionDao - Question Updated
+01:11:34.830 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:11:34.831 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:11:34.831 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:11:34.831 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:11:34.831 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:11:41.321 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Java
+01:11:41.321 [main] INFO  com.epam.quiz.management.view.ViewQuestions - Please select the title
+01:11:43.662 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.ViewQuestions - JAVA IS WHAT
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 1.fshf
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 2.fnf
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 3.fjnf
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 4.knskl
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.ViewQuestions - 
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for create question
+01:11:43.663 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 2 for read the questions
+01:11:43.664 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 3 for update the question
+01:11:43.664 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 4 for delete the question
+01:11:43.664 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 5 for exit
+01:11:46.706 [main] INFO  com.epam.quiz.management.view.AdminTasks - Press 1 for Question Bank
+Press 2 for QuizOperations
+Press 3 for exit
+01:11:48.486 [main] INFO  com.epam.quiz.management.Main - PLEASE ENTER 1 FOR LOGIN AND 2 FOR SIGNUP OR PRESS 3 FOR EXIT
